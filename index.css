@@ -1,0 +1,44 @@
+
+.disply{
+    background: #ffffff;
+    width: 222px;
+    height: 40px;
+    border: solid black 2px;
+    font-size: 26px;
+    overflow:hidden;
+    border-radius: 8px;
+    background-color: #9b9b9b;
+
+}
+.disply p{
+    display: inline;
+    float: right;
+    padding: 2px;
+    margin: 0px;
+}
+.container{
+    border: solid black 1px;
+    padding: 5px;
+    display: inline-block;
+    border-radius: 8px;
+    background-color: #2f00ff;
+}
+button{
+    margin-top: 3px;
+    width: 48px;
+    margin-left: 0px;
+    margin-right: 0px;
+    vertical-align: top;
+}
+button:hover{
+    background-color: #9b9b9b;
+}
+.buttons{
+    border: solid black 2px;
+    margin-top: 5px;
+    text-align: center;
+    padding: 6px;
+    display: inline-block;
+    width: 210px;
+    border-radius: 8px;
+}
